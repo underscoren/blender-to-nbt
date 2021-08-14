@@ -9,7 +9,7 @@ You can download both addons from the [releases tab](https://github.com/undersco
 
 ## Usage
 
-The addons come in two parts, designed to be used with each other. The first addon is `voxelize-exact.py`, which adds a new operator to objects that attempts to create exact 1m cubes using the remesh modifier. You can find it at the bottom of the Obeject menu listed as Voxelize Exact.
+The addons come in two parts, designed to be used with each other. The first addon is `voxelize-exact.py`, which adds a new operator to objects that attempts to create exact 1m cubes using the remesh modifier. You can find it at the bottom of the Object menu listed as Voxelize Exact.
 
 The second part is the `nbt-export` addon, which scans the currently selected object for blocks, and exports them to an NBT file. You can find it under File > Export > NBT Structure File (.nbt).
 
