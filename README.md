@@ -17,4 +17,4 @@ The export script has some caveats, namely that it expects blocks to be 1m in si
 
 ## License
 
-The code in this repository is licensed under the [MIT License](LICENSE.md). The python [NBT library](https://github.com/twoolie/NBT) used is also licensed under [MIT](nbt-export\nbt\LICENSE.txt).
+The code in this repository is licensed under the [MIT License](LICENSE.md). The python [NBT library](https://github.com/twoolie/NBT) used is also licensed under [MIT](nbt-export/nbt/LICENSE.txt).
